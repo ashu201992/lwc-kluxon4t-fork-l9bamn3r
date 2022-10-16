@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ashu201992.lwc-kluxon4t-fork-l9bamn3r",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve SRQdCFRyN8mdWerU6uh9 --open"
+  }
+}
